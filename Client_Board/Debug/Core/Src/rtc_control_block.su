@@ -1,0 +1,3 @@
+../Core/Src/rtc_control_block.c:20:6:rtccb_BCD2STRING	32	static
+../Core/Src/rtc_control_block.c:26:6:rtccb_get_time	16	static
+../Core/Src/rtc_control_block.c:33:6:rtccb_get_date	16	static

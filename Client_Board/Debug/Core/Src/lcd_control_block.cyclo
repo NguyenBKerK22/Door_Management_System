@@ -1,0 +1,6 @@
+../Core/Src/lcd_control_block.c:23:6:lcdcb_request	1
+../Core/Src/lcd_control_block.c:34:6:lcdcb_welcome	1
+../Core/Src/lcd_control_block.c:45:6:lcdcb_password	4
+../Core/Src/lcd_control_block.c:63:6:lcdcb_wrong_password	1
+../Core/Src/lcd_control_block.c:76:6:lcdcb_init	1
+../Core/Src/lcd_control_block.c:85:6:lcdcb_run	7

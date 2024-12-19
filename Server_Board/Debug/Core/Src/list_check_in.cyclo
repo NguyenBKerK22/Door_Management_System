@@ -1,0 +1,6 @@
+../Core/Src/list_check_in.c:31:6:add_person	2
+../Core/Src/list_check_in.c:39:6:init_person	1
+../Core/Src/list_check_in.c:44:6:init_list_person	2
+../Core/Src/list_check_in.c:53:6:updatePresent	3
+../Core/Src/list_check_in.c:61:6:init_list_checkin_data	2
+../Core/Src/list_check_in.c:69:6:add_checkin_data	2

@@ -1,0 +1,6 @@
+../Core/Src/lcd_control_block.c:23:6:lcdcb_request	8	static
+../Core/Src/lcd_control_block.c:34:6:lcdcb_welcome	8	static
+../Core/Src/lcd_control_block.c:45:6:lcdcb_password	16	static
+../Core/Src/lcd_control_block.c:63:6:lcdcb_wrong_password	8	static
+../Core/Src/lcd_control_block.c:76:6:lcdcb_init	8	static
+../Core/Src/lcd_control_block.c:85:6:lcdcb_run	8	static

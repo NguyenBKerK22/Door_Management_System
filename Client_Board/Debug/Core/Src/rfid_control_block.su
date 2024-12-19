@@ -1,0 +1,2 @@
+../Core/Src/rfid_control_block.c:17:6:rfidcb_init	8	static
+../Core/Src/rfid_control_block.c:28:6:rfidcb_run	24	static

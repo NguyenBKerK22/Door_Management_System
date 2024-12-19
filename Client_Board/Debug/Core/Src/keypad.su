@@ -1,0 +1,5 @@
+../Core/Src/keypad.c:26:6:key_init	24	static
+../Core/Src/keypad.c:39:6:keypad_init	16	static
+../Core/Src/keypad.c:67:6:keypad_button_reading	24	static
+../Core/Src/keypad.c:83:6:keypad_run	16	static
+../Core/Src/keypad.c:101:15:keypad_is_button_pressed	16	static

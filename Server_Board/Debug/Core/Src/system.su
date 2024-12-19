@@ -1,0 +1,4 @@
+../Core/Src/system.c:10:6:system_init	8	static
+../Core/Src/system.c:16:6:system_handle	64	static
+../Core/Src/system.c:53:6:system_on	8	static
+../Core/Src/system.c:57:6:HAL_UARTEx_RxEventCallback	16	static

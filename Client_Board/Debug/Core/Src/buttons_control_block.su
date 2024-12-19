@@ -1,0 +1,2 @@
+../Core/Src/buttons_control_block.c:22:6:bcb_init	8	static
+../Core/Src/buttons_control_block.c:33:6:bcb_run	16	static

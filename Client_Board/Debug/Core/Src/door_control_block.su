@@ -1,0 +1,2 @@
+../Core/Src/door_control_block.c:22:6:dcb_init	8	static
+../Core/Src/door_control_block.c:31:6:dcb_run	8	static

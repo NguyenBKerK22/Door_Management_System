@@ -1,0 +1,36 @@
+/*
+ * list_person.c
+ *
+ *  Created on: Nov 8, 2024
+ *      Author: ADMIN
+ */
+
+//--- Private Include ----------------------------
+
+#include "list_person.h"
+#include "string.h"
+
+//--- Variables ----------------------------------
+//--- Local Variables ----------------------------
+char local_uid[10][5] = {{0xEF,0xBE,0x16,0x1E},
+				   {0xFF,0x8C,0x9A,0x1E},
+		           {0xBF,0xE1,0x76,0x1F},
+				   {0xEF,0xF3,0x20,0x1E},
+				   {0x00,0x00,0x00,0x00},
+				   {0x00,0x00,0x00,0x00},
+				   {0x00,0x00,0x00,0x00},
+				   {0x00,0x00,0x00,0x00},
+				   {0x00,0x00,0x00,0x00},
+				   {0x00,0x00,0x00,0x00}
+};
+
+//--- Global Variables ---------------------------
+
+int updatePresent(char* uid){
+	for(int i=0;i<10;i++){
+		if(strcmp(local_uid[i],uid)==0){
+				return 1;
+		}
+	}
+	return 0;
+}

@@ -1,0 +1,2 @@
+../Core/Src/rgb_control_block.c:22:6:rgbcb_init	8	static
+../Core/Src/rgb_control_block.c:32:6:rgbcb_run	8	static

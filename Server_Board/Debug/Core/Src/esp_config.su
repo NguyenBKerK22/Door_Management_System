@@ -1,0 +1,6 @@
+../Core/Src/esp_config.c:140:6:SendCommand	16	static
+../Core/Src/esp_config.c:145:6:WaitForResponse	32	static
+../Core/Src/esp_config.c:165:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/esp_config.c:175:6:ESP_INIT	8	static
+../Core/Src/esp_config.c:232:6:Server_Send	16	static
+../Core/Src/esp_config.c:252:6:Server_On	6192	static
